@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @viruksha
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full stack web development
-- 💞️ I’m like when life gives you lemon make it a lemonade
-- 📫 How to reach me ***trust me if you wanna reach me, its through the technical side***
-
+- 👋 Hi, Im Viruksha.
+- 👀 Im a senior Cse student.
+- 🔗I have some knowledge about Java and python
+- 📸And can  be really  helpful in managing and debugging.
+- 👩🏻‍💻I am currently learning web development
+- 🤝🏻And atlast Nice meeting you!!!
 <!---
 viruksha/viruksha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
